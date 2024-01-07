@@ -1,7 +1,6 @@
 public class CustomerDetails {
     String Phonenumber;
     String name;
-
     Passport passport;
 
 
