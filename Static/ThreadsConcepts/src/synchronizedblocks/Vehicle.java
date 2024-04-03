@@ -1,7 +1,5 @@
 package synchronizedblocks;
 
-
-
 public class Vehicle extends Thread{
     int liters;
     String status;
