@@ -1,4 +1,4 @@
-package bankcreditdemo;
+package bankcreditcarddemo;
 
 public class Address {
     public int flatNo;

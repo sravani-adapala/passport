@@ -1,4 +1,4 @@
-package bankcreditdemo;
+package bankcreditcarddemo;
 
 import java.util.Date;
 import java.util.UUID;
