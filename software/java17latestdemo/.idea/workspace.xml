@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af370252-d6d1-4dd6-b057-dc1a16b119c4" name="Changes" comment="*-">
-      <change afterPath="$PROJECT_DIR$/src/main/java/cardtransactions/CardDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/cardtransactions/PurchaseDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bankcreditdemo/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bankcreditdemo/CardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/CardService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bankcreditdemo/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/CreditCard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bankcreditdemo/CreditCardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/CreditCardTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bankcreditdemo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/loandemo/LoanService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/loandemo/LoanService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../../" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../" />
   </component>
   <component name="ProjectColorInfo">{
@@ -37,14 +35,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
+    "ignore.virus.scanning.warn.message": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.LoanTest">
     <configuration name="BankDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bankdemo.BankDemoTest" />
@@ -146,12 +144,32 @@
       <option name="project" value="LOCAL" />
       <updated>1712135942875</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="*-">
+      <option name="closed" value="true" />
+      <created>1712220460483</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712220460483</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="signal red" />
     <MESSAGE value="hlo" />
-    <option name="LAST_COMMIT_MESSAGE" value="hlo" />
+    <MESSAGE value="*-" />
+    <option name="LAST_COMMIT_MESSAGE" value="*-" />
   </component>
 </project>
