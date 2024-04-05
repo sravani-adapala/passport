@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af370252-d6d1-4dd6-b057-dc1a16b119c4" name="Changes" comment="carddemo" />
+    <list default="true" id="af370252-d6d1-4dd6-b057-dc1a16b119c4" name="Changes" comment="carddemo">
+      <change afterPath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/OrderItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/ProductSpecification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/ShopDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/ShoppingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/Address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/CardService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/CardService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/CreditCard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/CreditCard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/CreditCardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/bankcreditcarddemo/CreditCardTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/metrodestinationdemo/ExitStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/metrodestinationdemo/ExitStation.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +54,7 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LoanTest">
+  <component name="RunManager" selected="Application.ShopDemoTest">
     <configuration name="BankDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bankdemo.BankDemoTest" />
       <module name="java17latestdemo" />
@@ -81,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MetroDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="metrodestinationdemo.MetroDemoTest" />
+    <configuration name="ShopDemoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bankcreditcarddemo.ShopDemoTest" />
       <module name="java17latestdemo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="metrodestinationdemo.*" />
+          <option name="PATTERN" value="bankcreditcarddemo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LoanTest" />
+        <item itemvalue="Application.ShopDemoTest" />
         <item itemvalue="Application.CreditCardTest" />
+        <item itemvalue="Application.LoanTest" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.BankDemoTest" />
-        <item itemvalue="Application.MetroDemoTest" />
       </list>
     </recent_temporary>
   </component>

@@ -18,8 +18,20 @@ public class CreditCardTest {
         user.panNumber = "BIY44";
         user.address = address;
 
-        CardService cardService = new CardService();
-        System.out.println(cardService.card(user));
-    }
+        // CardService cardService = new CardService();
+        // System.out.println(cardService.card(user));
 
+/*
+        Product product=new Product();
+        product.type="jeans";
+        product.productCost=1000;
+        product.size="28";
+        product.color="Blue";
+
+        ShoppingService shoppingService=new ShoppingService();
+        shoppingService.selectProduct(product);
+
+
+*/
+    }
 }

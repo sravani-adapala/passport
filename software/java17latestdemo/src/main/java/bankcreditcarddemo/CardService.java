@@ -12,6 +12,8 @@ public class CardService {
         creditCard.cardNo= UUID.randomUUID().toString();
         creditCard.cvv=UUID.randomUUID().toString();
         creditCard.cardExpiry=new Date();
+        creditCard.cardLimit=5000;
+      creditCard.availableBalence=10000;
         return creditCard;
     }
 }
